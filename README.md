@@ -1,0 +1,3 @@
+# SCADA Dashboard
+
+Initial template.
